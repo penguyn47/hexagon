@@ -1,6 +1,6 @@
 const MainBanner = () => {
     return (
-        <div class="page-heading" id="top">
+        <div className="page-heading" id="top" style={{ background: 'url(/static/images/about-us-page-heading.jpg)' }}>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">

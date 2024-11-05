@@ -4,7 +4,7 @@ const teamMembers = [
     {
         name: 'Nguyễn Duy Lâm',
         position: 'Product Caretaker',
-        image: 'src/assets/images/team-member-01.jpg',
+        image: '/static/images/team-member-01.jpg',
         socials: [
             { icon: 'fa fa-facebook', link: '#' },
             { icon: 'fa fa-twitter', link: '#' },
@@ -15,7 +15,7 @@ const teamMembers = [
     {
         name: 'Nguyễn Đặng Minh Lân',
         position: 'Product Caretaker',
-        image: 'src/assets/images/team-member-02.jpg',
+        image: '/static/images/team-member-02.jpg',
         socials: [
             { icon: 'fa fa-facebook', link: '#' },
             { icon: 'fa fa-twitter', link: '#' },
@@ -26,7 +26,7 @@ const teamMembers = [
     {
         name: 'Huỳnh Tấn Lộc',
         position: 'Product Caretaker',
-        image: 'src/assets/images/team-member-03.jpg',
+        image: '/static/images/team-member-03.jpg',
         socials: [
             { icon: 'fa fa-facebook', link: '#' },
             { icon: 'fa fa-twitter', link: '#' },

@@ -36,12 +36,12 @@ const ExploreArea = () => {
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="first-image">
-                                        <img src="./src/assets/images/explore-image-01.jpg" alt="Leather Bags" />
+                                        <img src="/static/images/explore-image-01.jpg" alt="Leather Bags" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="second-image">
-                                        <img src="./src/assets/images/explore-image-02.jpg" alt="Product Collection" />
+                                        <img src="/static/images/explore-image-02.jpg" alt="Product Collection" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6">

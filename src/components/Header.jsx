@@ -16,7 +16,7 @@ const Header = () => {
                         <nav className="main-nav">
                             {/* ***** Logo Start ***** */}
                             <a href="/" className="logo">
-                                <img src="/src/assets/images/logo.png" alt="Logo" />
+                                <img src="/static/images/logo.png" alt="Logo" />
                             </a>
                             {/* ***** Logo End ***** */}
                             {/* ***** Menu Start ***** */}

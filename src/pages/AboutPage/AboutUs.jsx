@@ -7,7 +7,7 @@ const AboutUs = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="left-image">
-                            <img src="src/assets/images/about-left-image.jpg" alt="About Us" />
+                            <img src="/static/images/about-left-image.jpg" alt="About Us" />
                         </div>
                     </div>
                     <div className="col-lg-6">

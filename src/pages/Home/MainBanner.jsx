@@ -15,7 +15,7 @@ const MainBanner = () => {
                                         <a href="#">Purchase Now!</a>
                                     </div>
                                 </div>
-                                <img src="./src/assets/images/left-banner-image.jpg" alt="Left Banner" />
+                                <img src="/static/images/left-banner-image.jpg" alt="Left Banner" />
                             </div>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ const MainBanner = () => {
                                                     </div>
                                                 </div>
                                             </div>
-                                            <img src="./src/assets/images/baner-right-image-01.jpg" alt="Women" />
+                                            <img src="/static/images/baner-right-image-01.jpg" alt="Women" />
                                         </div>
                                     </div>
                                 </div>
@@ -58,7 +58,7 @@ const MainBanner = () => {
                                                     </div>
                                                 </div>
                                             </div>
-                                            <img src="./src/assets/images/baner-right-image-02.jpg" alt="Men" />
+                                            <img src="/static/images/baner-right-image-02.jpg" alt="Men" />
                                         </div>
                                     </div>
                                 </div>
@@ -78,7 +78,7 @@ const MainBanner = () => {
                                                     </div>
                                                 </div>
                                             </div>
-                                            <img src="./src/assets/images/baner-right-image-03.jpg" alt="Kids" />
+                                            <img src="/static/images/baner-right-image-03.jpg" alt="Kids" />
                                         </div>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@ const MainBanner = () => {
                                                     </div>
                                                 </div>
                                             </div>
-                                            <img src="./src/assets/images/baner-right-image-04.jpg" alt="Accessories" />
+                                            <img src="/static/images/baner-right-image-04.jpg" alt="Accessories" />
                                         </div>
                                     </div>
                                 </div>

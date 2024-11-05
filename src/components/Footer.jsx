@@ -8,7 +8,7 @@ const Footer = () => {
                     <div className="col-lg-3">
                         <div className="first-item">
                             <div className="logo">
-                                <img src="/src/assets/images/white-logo.png" alt="Hexashop ecommerce templatemo" />
+                                <img src="/static/images/white-logo.png" alt="Hexashop ecommerce templatemo" />
                             </div>
                             <ul>
                                 <li>

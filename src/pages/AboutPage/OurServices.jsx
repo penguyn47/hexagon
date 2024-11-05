@@ -5,19 +5,19 @@ const services = [
         title: 'Synther Vaporware',
         description:
             'Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut labore, et dolore quis ipsum suspend.',
-        image: 'src/assets/images/service-01.jpg',
+        image: '/static/images/service-01.jpg',
     },
     {
         title: 'Locavore Squidward',
         description:
             'Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut labore, et dolore quis ipsum suspend.',
-        image: 'src/assets/images/service-02.jpg',
+        image: '/static/images/service-02.jpg',
     },
     {
         title: 'Health Gothfam',
         description:
             'Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut labore, et dolore quis ipsum suspend.',
-        image: 'src/assets/images/service-03.jpg',
+        image: '/static/images/service-03.jpg',
     },
 ];
 

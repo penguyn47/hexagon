@@ -16,12 +16,12 @@ const SocialArea = () => {
             <div className="container">
                 <div className="row images">
                     {[
-                        { label: 'Fashion', imgSrc: './src/assets/images/instagram-01.jpg' },
-                        { label: 'New Arrivals', imgSrc: './src/assets/images/instagram-02.jpg' },
-                        { label: 'Brand Highlights', imgSrc: './src/assets/images/instagram-03.jpg' },
-                        { label: 'Makeup Trends', imgSrc: './src/assets/images/instagram-04.jpg' },
-                        { label: 'Leather Goods', imgSrc: './src/assets/images/instagram-05.jpg' },
-                        { label: 'Stylish Bags', imgSrc: './src/assets/images/instagram-06.jpg' },
+                        { label: 'Fashion', imgSrc: '/static/images/instagram-01.jpg' },
+                        { label: 'New Arrivals', imgSrc: '/static/images/instagram-02.jpg' },
+                        { label: 'Brand Highlights', imgSrc: '/static/images/instagram-03.jpg' },
+                        { label: 'Makeup Trends', imgSrc: '/static/images/instagram-04.jpg' },
+                        { label: 'Leather Goods', imgSrc: '/static/images/instagram-05.jpg' },
+                        { label: 'Stylish Bags', imgSrc: '/static/images/instagram-06.jpg' },
                     ].map((item, index) => (
                         <div className="col-2" key={index}>
                             <div className="thumb">
