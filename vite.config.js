@@ -7,4 +7,7 @@ export default defineConfig({
     sourcemap: false, // Tắt source map
   },
   plugins: [react()],
+  build: {
+    outDir: 'dist'
+  },
 })
